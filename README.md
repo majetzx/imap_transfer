@@ -18,7 +18,7 @@ Sent emails are stored in the "Sent" directory, other in the "Inbox" directory.
  - imap_utils.py : utilities & functions
  - global : SQLite database storing retrieved messages
 
-### Configuration (selon les scripts) :
+### Configuration :
  - server : IMAP server (read_imap.py, write_imap.py, empty_imap.py)
  - user : IMAP identifier (read_imap.py, write_imap.py, empty_imap.py)
  - password : IMAP password (read_imap.py, write_imap.py, empty_imap.py)
