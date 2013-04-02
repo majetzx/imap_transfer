@@ -1,5 +1,5 @@
-imap_transfert
-==============
+imap_transfer
+=============
 
 Transfer IMAP messages from one account to another.
 
