@@ -54,8 +54,4 @@ All messages in an IMAP mailbox can be deleted using `empty_imap.py`.
 With IMAP, received messages are in the `INBOX` directory, others might exist.
 With Gmail, the `[Gmail]/Sent Mail` directory contains sent messages, and the `[Gmail]/All Mail` directory contains all messages.
 
-<<<<<<< HEAD
 https://github.com/majetzx/imap_transfer
-=======
-https://github.com/majetzx/imap_transfer
->>>>>>> e4abac2b1aa99113f144f055cb7c95f4fa015081
