@@ -16,6 +16,7 @@ Sent emails are stored in the `Sent` directory, others in the `Inbox` directory.
  - `read_mbox.py` : reads messages from an mbox file and stores them in the database
  - `write_imap.py` : adds messages form the database to an IMAP account
  - `empty_imap.py` : empties all messages from an IMAP account
+ - `analyze_imap.py` : analyzes all messages in an IMAP account
  - `imap_utils.py` : utilities & functions
  - `global.db` : SQLite database storing retrieved messages
 
